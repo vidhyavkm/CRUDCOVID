@@ -1,0 +1,11 @@
+body{
+    background-color: aquamarine;
+    background-image:url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMr5WKro3poU4WTRF7rojhT5hNM44aAquoMIgeqn3kN7X6nfDVuCSjSsJp8jSg00DhYvU&usqp=CAU)
+}
+
+#active{
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
